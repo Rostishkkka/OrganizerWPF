@@ -1,2 +1,2 @@
 # OrganizerWPF
-Project version 2023
+Project version 2023 of August
